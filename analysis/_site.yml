@@ -5,10 +5,9 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
-  - text: License
-    href: license.html
+  right:
+  - icon: fa-github
+    href: https://github.com/statsleelab/gaussExamples
 output:
   workflowr::wflow_html:
     toc: yes

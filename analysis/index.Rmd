@@ -8,4 +8,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+## GAUSS Eamples
+* [Example 1) Computing ethnic mixing proportions of GWAS](cal_pop_wgt_example.html)
+* [Example 2) Computing ancestry-informed LD](computeLD_example.html)
+* [Example 3) Imputing association Z-scores of missing SNPs](distmix_impute_example.html)
