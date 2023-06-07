@@ -1,5 +1,4 @@
 # gaussExamples
 
-A [workflowr][] project.
+The [GAUSS Examples webpage](https://statsleelab.github.io/gaussExamples/) includes several data examples utilizing the GAUSS package and function.
 
-[workflowr]: https://github.com/workflowr/workflowr
